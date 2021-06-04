@@ -1,7 +1,4 @@
 //Daniel Choe
-//CS 304 Data Structures
-
-package chapter07;
 
 public class TestBST
 {
