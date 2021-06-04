@@ -24,9 +24,6 @@ public class TestBST
       bst.remove(6); 
       bst.remove(7);
       bst.remove(19);  
-      //bst.inOrder();
-      //bst.balance(); Does not exist
-      //bst.inOrder();
       
       bst.preOrder();
       bst.inOrder();
